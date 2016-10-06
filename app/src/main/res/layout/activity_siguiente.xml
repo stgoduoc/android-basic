@@ -10,6 +10,13 @@
     android:orientation="vertical"
     tools:context="cl.hardcybersoft.android.basicapplication.SiguienteActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="cargando..."
+        android:id="@+id/textView" />
+
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

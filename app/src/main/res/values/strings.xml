@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BasicApplication</string>
+    <string name="app_name">Aplicación Básica</string>
+    <string name="correo">Correo</string>
 </resources>
